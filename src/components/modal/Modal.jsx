@@ -105,9 +105,13 @@ export default function TablesModal({ open, handleTableModalClose }) {
               </FormControl>
 
               <div className='tables'>
-                {Object.values(workerTables).map(t => (
-                  <CustomerTable key={t.tableId} table={t} worker={currentWorker} onClick={() => {addBill(t.tableId)}} />
-                ))}
+                {Object.values(workerTables).map(t => {
+                  if(t.paid) {
+                    return <CustomerTable key={t.tableId} table={t} worker={currentWorker} />
+                  } else {
+                    return <CustomerTable key={t.tableId} table={t} worker={currentWorker} onClick={() => {addBill(t.tableId)}} />
+                  }
+                })}
               </div>
               
               <OrderInfo reference={orderPrintRef} />

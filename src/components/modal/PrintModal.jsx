@@ -75,17 +75,13 @@ export default function PrintModal({ open: openForPrint, handlePrintModalClose }
             <Grid item xs={8}>
               <div className="print-modal-container">
                 <div className="tables">
-                  {Object.values(workerTables).map(t => {
-                    if(t.paid) {
-                      return <CustomerTable className="paid" key={t.tableId} table={t} worker={currentWorker} onClick={() => {addBill(t.tableId)}} />
-                    } else {
-                      return <CustomerTable key={t.tableId} table={t} worker={currentWorker} onClick={() => {addBill(t.tableId)}} />
-                    }
-                  })}
+                  {Object.values(workerTables).map(t => (
+                    <CustomerTable key={t.tableId} table={t} worker={currentWorker} onClick={() => {addBill(t.tableId)}} />
+                  ))}
                 </div>
                 <Button size='large' variant="contained" onClick={handlePrintReport}>Dnevni izvestaj</Button>
                 <div className="print-daily-report" ref={dailyReportRef}>
-                  {Object.values(workerTables).map(table => <PrintActiveBill activeTable={table} />)}
+                  {Object.values(workerTables).map((table, index) => <PrintActiveBill key={index} activeTable={table} />)}
                 </div>
               </div>
             </Grid>

@@ -29,7 +29,6 @@ export const activeTablesSlice = createSlice({
     updateTable: (state, action) => {
       const {tableId, worker, bill} = action.payload;
       let bills = [...current(state.activeTables[worker][tableId].bills)];
-      const total = state.activeTables[worker][tableId].total
 
       bill.forEach(b => {
         let index = bills.findIndex(currentBillRow => currentBillRow.id === b.id);
@@ -39,7 +38,7 @@ export const activeTablesSlice = createSlice({
           state.activeTables[worker][tableId].bills.push(b);
         }
       });
-      state.activeTables[worker][tableId].total = state.activeTables[worker][tableId].bills.reduce((acc, item) => acc + item.cena * item.quantity, total);
+      state.activeTables[worker][tableId].total = state.activeTables[worker][tableId].bills.reduce((acc, item) => acc + item.cena * item.quantity, 0);
       setTable(state.activeTables)
     },
     updateArticle: (state, action) => {
@@ -68,6 +67,7 @@ export const activeTablesSlice = createSlice({
     setCurrentTableToPaid: (state, action) => {
       const { worker, tableId } = action.payload
       state.activeTables[worker][tableId].paid = true;
+      setTable(state.activeTables)
     },
     clearAllTable: (state, action) => {
       state.activeTables = Object.assign({}, wt)

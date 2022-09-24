@@ -23,8 +23,8 @@ export default function PrintActiveBill({ activeTable, handleModalClose, handleP
               <span className="articles-column-quantity">Cena</span>
             </div>
             
-            {activeTable?.bills?.length ? activeTable.bills.map((currentBillRow) => (
-              <div className="articles-row">
+            {activeTable?.bills?.length ? activeTable.bills.map((currentBillRow, index) => (
+              <div className="articles-row" key={index}>
                 <span className="articles-column-name">{currentBillRow.artikal}</span>
                 <span className="articles-column-quantity">{currentBillRow.quantity}</span>
                 <span className="articles-column-price">{currentBillRow.cena}</span>

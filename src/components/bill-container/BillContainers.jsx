@@ -13,8 +13,8 @@ export default function BillContainers({ handleTableModalOpen }) {
     <div className="bill-container">
       <header className="bill-header">
         <div className="bill-header-commands">
-          <Button onClick={() => dispatch(removeAllFromCurrentBill())} color="error">Obrisi sve</Button>
-          <Button onClick={handleTableModalOpen} disabled={!currentWorker || currentBill === null || currentBill.length === 0 } color="success">Sacuvaj</Button>
+          <Button size='large' variant="contained" onClick={() => dispatch(removeAllFromCurrentBill())} color="error">Obrisi sve</Button>
+          <Button size='large' variant="contained" onClick={handleTableModalOpen} disabled={!currentWorker || currentBill === null || currentBill.length === 0 } color="success">Sacuvaj</Button>
         </div>
       </header>
       <Bill />
