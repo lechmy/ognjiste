@@ -1,11 +1,11 @@
-# To build application and open it on Browser
-# Make sure you instaled `serve`
-# Install serve by running `npm install -g serve` 
+# Building application and open it on Browser
+Make sure you instaled `serve`
+Install serve by running `npm install -g serve` 
 
-### `npm run build && serve -s build`
-# Open link that is presented in console (e.i. "http://localhost:*", * is some 4 digit number, usualy 3000)
+open terminal in project root folder and run command `npm run build && serve -s build`
+Open link that is presented in console (e.i. "http://localhost:*", * is some 4 digit number, usualy 3000)
 
-# ------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
 # Getting Started with Create React App
 
