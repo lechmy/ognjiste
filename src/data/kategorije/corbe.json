@@ -1,0 +1,16 @@
+{
+  "id": 15,
+  "kategorija": "CORBE",
+  "artikli": [
+    {
+      "id": 1501,
+      "artikal": "Teleca corba 2.5dl",
+      "cena": 250
+    },
+    {
+      "id": 1502,
+      "artikal": "Pileca corba 2.5dl",
+      "cena": 220
+    }
+  ]	
+}

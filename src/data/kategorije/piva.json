@@ -1,0 +1,76 @@
+{
+  "id": 1,
+  "kategorija": "PIVA",
+  "artikli": [
+    {
+      "id": 11,
+      "artikal": "Zajecarsko 0.5",
+      "cena": 170
+    },
+    {
+      "id": 12,
+      "artikal": "Zajecarsko 0.33",
+      "cena": 220
+    },
+    {
+      "id": 13,
+      "artikal": "Birra Morreti 0.4",
+      "cena": 180
+    },
+    {
+      "id": 14,
+      "artikal": "Lasko 0.5",
+      "cena": 210
+    },
+    {
+      "id": 15,
+      "artikal": "Lasko 0.33",
+      "cena": 220
+    },
+    {
+      "id": 16,
+      "artikal": "Tuborg 0.5",
+      "cena": 250
+    },
+      {
+      "id": 17,
+      "artikal": "Tuborg 0.33",
+      "cena": 250
+    },
+    {
+      "id": 18,
+      "artikal": "Heineken 0.4",
+      "cena": 250
+    },
+    {
+      "id": 19,
+      "artikal": "Heineken 0.25",
+      "cena": 280
+    },
+    {
+      "id": 110,
+      "artikal": "Carlsberg 0.33",
+      "cena": 290
+    },
+    {
+      "id": 111,
+      "artikal": "Heineken TOC0.5",
+      "cena": 290
+    },
+    {
+      "id": 112,
+      "artikal": "Heineken TOC.0.35",
+      "cena": 230
+    },
+    {
+      "id": 113,
+      "artikal": "Birra M.TOC.0.5",
+      "cena": 240
+    },
+    {
+      "id": 114,
+      "artikal": "Birra M.TOC.0.25",
+      "cena": 160
+    }
+  ]
+}

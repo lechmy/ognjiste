@@ -1,0 +1,41 @@
+{
+  "id": 22,
+  "kategorija": "SPECIJALITETI KUCE",
+  "artikli": [
+    {
+      "id": 2201,
+      "artikal": "Dimljena butkica 1kg",
+      "cena": 1800
+    },
+    {
+      "id": 2202,
+      "artikal": "Svinjski medaljoni u sosu od vrganja 400g",
+      "cena": 950
+    },
+    {
+      "id": 2203,
+      "artikal": "Sablja Ognjiste 2kg mesa",
+      "cena": 6900
+    },
+    {
+      "id": 2204,
+      "artikal": "Staroplaninska bukovaca 200g",
+      "cena": 350
+    },
+    {
+      "id": 2205,
+      "artikal": "Teletina ispod saca 1kg",
+      "cena": 2900
+    },
+    {
+      "id": 2206,
+      "artikal": "Jagnjetina 1kg",
+      "cena": 2000
+    },
+    {
+      "id": 2207,
+      "artikal": "Prasetina 1 kg",
+      "cena": 1600
+    }
+  ]	
+}

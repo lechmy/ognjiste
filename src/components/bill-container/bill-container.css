@@ -1,0 +1,9 @@
+.bill-container {
+  width: 28vw;
+  padding: 10px 20px;
+  background: rgb(255, 255, 255);
+}
+.bill-header-commands {
+  display: flex;
+  justify-content: space-between;
+}

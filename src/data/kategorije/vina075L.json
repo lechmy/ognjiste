@@ -1,0 +1,221 @@
+{
+  "id": 9,
+  "kategorija": "Vina 0.75",
+  "artikli": [
+    {
+      "id": 91,
+      "artikal": "Alal 0.75",
+      "cena": 1700
+    },
+    {
+      "id": 92,
+      "artikal": "Kalabalak 0.75",
+      "cena": 1700
+    },
+    {
+      "id": 93,
+      "artikal": "Dert 0.75",
+      "cena": 1800
+    },
+    {
+      "id": 94,
+      "artikal": "Rose Dionizije 0.75",
+      "cena": 1600
+    },
+    {
+      "id": 95,
+      "artikal": "Vranac Jovic 0.75",
+      "cena": 1800
+    },
+    {
+      "id": 96,
+      "artikal": "Kovacevic Aurelius 0.75",
+      "cena": 3000
+    },
+    {
+      "id": 97,
+      "artikal": "Kovacevic Chardonnay 0.75",
+      "cena": 2900
+    },
+    {
+      "id": 98,
+      "artikal": "8 Tamburasa Z.B 0.75",
+      "cena": 2100
+    },
+    {
+      "id": 99,
+      "artikal": "Rose Zvonko B.0.75",
+      "cena": 2100
+    },
+    {
+      "id": 910,
+      "artikal": "Zivot tece Zvonko B.0.75",
+      "cena": 3000
+    },
+    {
+      "id": 911,
+      "artikal": "Temjanika Spasic 0.75",
+      "cena": 2000
+    },
+    {
+      "id": 912,
+      "artikal": "Despot spasic 0.75",
+      "cena": 2000
+    },
+    {
+      "id": 913,
+      "artikal": "Krstac 13.jul 0.75",
+      "cena": 1100
+    },
+    {
+      "id": 914,
+      "artikal": "Vranac 13.jul 0.75",
+      "cena": 1100
+    },
+    {
+      "id": 915,
+      "artikal": "Vranac ProCorde 0.75",
+      "cena": 1600
+    },
+    {
+      "id": 916,
+      "artikal": "Temjanika 100 suza 0.75",
+      "cena": 2100
+    },
+    {
+      "id": 917,
+      "artikal": "Barbara Aleksic 0.75",
+      "cena": 1500
+    },
+    {
+      "id": 918,
+      "artikal": "Kardas Aleksic 0.75",
+      "cena": 1900
+    },
+    {
+      "id": 919,
+      "artikal": "Zuti cvet Aleksic 0.75",
+      "cena": 1900
+    },
+    {
+      "id": 920,
+      "artikal": "Prokupac Ivanovic 0.75",
+      "cena": 2400
+    },
+    {
+      "id": 921,
+      "artikal": "Petite Rose 0.75",
+      "cena": 1700
+    },
+    {
+      "id": 922,
+      "artikal": "Chardonnay Radovanovic 0.75",
+      "cena": 2600
+    },
+    {
+      "id": 923,
+      "artikal": "Temjanika Stobi 0.75",
+      "cena": 1400
+    },
+    {
+      "id": 924,
+      "artikal": "Acacia Stobi 0.75",
+      "cena": 2500
+    },
+    {
+      "id": 925,
+      "artikal": "Veritas Stobi 0.75",
+      "cena": 2500
+    },
+    {
+      "id": 926,
+      "artikal": "Zilavka Stobi 0.75",
+      "cena": 1000
+    },
+    {
+      "id": 927,
+      "artikal": "Muscat Macedonia 0.75",
+      "cena": 1700
+    },
+    {
+      "id": 928,
+      "artikal": "Cabernet Macedonia 0.75",
+      "cena": 1500
+    },
+    {
+      "id": 929,
+      "artikal": "Alexandria Crvena 0.75",
+      "cena": 1400
+    },
+    {
+      "id": 930,
+      "artikal": "Vranec SS Tikves 0.75",
+      "cena": 1800
+    },
+    {
+      "id": 931,
+      "artikal": "Cabernet Sauvignon SS 0.75",
+      "cena": 1600
+    },
+    {
+      "id": 932,
+      "artikal": "Cabernet&Merlot OAK 0.75",
+      "cena": 1350
+    },
+    {
+      "id": 933,
+      "artikal": "Alexandria Cuvee Crvena 0.75",
+      "cena": 2000
+    },
+    {
+      "id": 934,
+      "artikal": "Alexandria Bela 0.75",
+      "cena": 1400
+    },
+    {
+      "id": 935,
+      "artikal": "Temjanika Tikves 0.75",
+      "cena": 1500
+    },
+    {
+      "id": 936,
+      "artikal": "Temjanika SS Tikves 0.75",
+      "cena": 1700
+    },
+    {
+      "id": 937,
+      "artikal": "Sauvignon Blanc T.0.75",
+      "cena": 1600
+    },
+    {
+      "id": 938,
+      "artikal": "Chardonnay Tikves 0.75",
+      "cena": 1000
+    },
+    {
+      "id": 939,
+      "artikal": "Chardonnay OAK T.0.75",
+      "cena": 1250
+    },
+    {
+      "id": 940,
+      "artikal": "Alexandria Cuvee Bela 0.75",
+      "cena": 2000
+    },
+    {
+      "id": 941,
+      "artikal": "Rose Tikves 0.75",
+      "cena": 1400
+    },
+    {
+      "id": 942,
+      "artikal": "Alexandria Cuvee Rose 0.75",
+      "cena": 2000
+    },
+    {
+      "id": 943,
+      "artikal": "Alexandria Rose Classic 0.75",
+      "cena": 1400
+    }
+  ]	
+}

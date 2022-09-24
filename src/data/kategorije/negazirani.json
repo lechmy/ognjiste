@@ -1,0 +1,31 @@
+{
+  "id": 3,
+  "kategorija": "NEGAZIRANI",
+  "artikli": [
+    {
+      "id": 31,
+      "artikal": "next jagoda 0.2",
+      "cena": 190
+    },
+    {
+      "id": 32,
+      "artikal": "next breskva 0.2",
+      "cena": 190
+    },	
+    {
+      "id": 33,
+      "artikal": "next narandza 0.2",
+      "cena": 190
+    },
+    {
+      "id": 34,
+      "artikal": "next sumsko voce 0.2",
+      "cena": 190
+    },
+    {
+      "id": 35,
+      "artikal": "next jabuka 0.2",
+      "cena": 190
+    }
+  ]	
+}

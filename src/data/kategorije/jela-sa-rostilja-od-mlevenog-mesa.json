@@ -1,0 +1,51 @@
+{
+  "id": 18,
+  "kategorija": "JELA SA ROSTILJA OD MLEVENOG MESA",
+  "artikli": [
+    {
+      "id": 1801,
+      "artikal": "Pljeskavica 200g",
+      "cena": 350
+    },
+    {
+      "id": 1802,
+      "artikal": "Pljeskavica 400g",
+      "cena": 650
+    },
+    {
+      "id": 1803,
+      "artikal": "Gurmanska pljeskavica 400g",
+      "cena": 660
+    },
+    {
+      "id": 1804,
+      "artikal": "Ustipci 400g",
+      "cena": 700
+    },
+    {
+      "id": 1805,
+      "artikal": "Cevapi 10kom 400g",
+      "cena": 700
+    },
+    {
+      "id": 1806,
+      "artikal": "Cevapi 5kom 200g",
+      "cena": 350
+    },
+    {
+      "id": 1807,
+      "artikal": "Punjeni cevap 400g",
+      "cena": 700
+    },
+    {
+      "id": 1808,
+      "artikal": "Kobasica 1kg",
+      "cena": 1700
+    },
+    {
+      "id": 1809,
+      "artikal": "Ognjiste pljeskavica 600g",
+      "cena": 890
+    }
+  ]	
+}

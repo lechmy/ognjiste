@@ -1,0 +1,66 @@
+{
+  "id": 4,
+  "kategorija": "VODE",
+  "artikli": [
+    {
+      "id": 41,
+      "artikal": "Heba 1L",
+      "cena": 140
+    },
+    {
+      "id": 42,
+      "artikal": "Heba neg 0.25",
+      "cena": 100
+    },
+    {
+      "id": 43,
+      "artikal": "Heba 0.25",
+      "cena": 100
+    },
+    {
+      "id": 44,
+      "artikal": "Heba negaz. 1L",
+      "cena": 170
+    },
+    {
+      "id": 45,
+      "artikal": "Knjaz 1L",
+      "cena": 150
+    },
+    {
+      "id": 46,
+      "artikal": "Knjaz 0.25",
+      "cena": 100
+    },
+    {
+      "id": 47,
+      "artikal": "Aqua Viva 1L neg.",
+      "cena": 170
+    },
+    {
+      "id": 48,
+      "artikal": "Aqua Viva 0.25 neg",
+      "cena": 100
+    },
+    {
+      "id": 49,
+      "artikal": "Rosa 0.75",
+      "cena": 220
+    },
+    {
+      "id": 410,
+      "artikal": "Rosa 0.33",
+      "cena": 120
+    },
+    {
+      "id": 411,
+      "artikal": "Roemerquelle 0.75",
+      "cena": 230
+    },
+    {
+      "id": 412,
+      "artikal": "Roemerquelle 0.33",
+      "cena": 130
+    }
+  ]
+}

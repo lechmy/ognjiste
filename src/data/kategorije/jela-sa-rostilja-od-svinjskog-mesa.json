@@ -1,0 +1,56 @@
+{
+  "id": 20,
+  "kategorija": "JELA SA ROSTILJA OD SVINJSKOG MESA",
+  "artikli": [
+    {
+      "id": 2001,
+      "artikal": "Bela vesalica 400g",
+      "cena": 850
+    },
+    {
+      "id": 2002,
+      "artikal": "Punjena bela vesalica 400g",
+      "cena": 850
+    },
+    {
+      "id": 2003,
+      "artikal": "Kare na kajmaku 400g",
+      "cena": 850
+    },
+    {
+      "id": 2004,
+      "artikal": "Kare u sosu od vrganja 400g",
+      "cena": 900
+    },
+    {
+      "id": 2005,
+      "artikal": "Svinjski raznjic 400g",
+      "cena": 700
+    },
+    {
+      "id": 2006,
+      "artikal": "Karadjordjeva snicla 300g",
+      "cena": 690
+    },
+    {
+      "id": 2007,
+      "artikal": "Svezi svinjski vrat 400g",
+      "cena": 780
+    },
+    {
+      "id": 2008,
+      "artikal": "Dimljeni vrat 400g",
+      "cena": 890
+    },
+    {
+      "id": 2009,
+      "artikal": "Dimljena svinjska rebra na kajmaku 400g",
+      "cena": 880
+    },
+    {
+      "id": 2010,
+      "artikal": "Paketic Oganj 500g",
+      "cena": 930
+    }
+  ]
+}

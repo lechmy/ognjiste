@@ -1,0 +1,51 @@
+{
+  "id": 14,
+  "kategorija": "TOPLA PREDJELA",
+  "artikli": [
+    {
+      "id": 1401,
+      "artikal": "Dimljeni sir na zaru 200g",
+      "cena": 380
+    },
+    {
+      "id": 1402,
+      "artikal": "Paprika u slanini 1kom",
+      "cena": 200
+    },
+    {
+      "id": 1403,
+      "artikal": "Pohovane paprike 2 kom",
+      "cena": 150
+    },
+    {
+      "id": 1404,
+      "artikal": "Pohovani kackavalj 250g",
+      "cena": 430
+    },
+    {
+      "id": 1405,
+      "artikal": "Pecurke na zaru 250g",
+      "cena": 280
+    },
+    {
+      "id": 1406,
+      "artikal": "Pohovani dimljeni sir 200g",
+      "cena": 380
+    },
+    {
+      "id": 1407,
+      "artikal": "Topeno sirenje 400g",
+      "cena": 550
+    },
+    {
+      "id": 1408,
+      "artikal": "Ognjiste lepinja 1kom",
+      "cena": 390
+    },
+    {
+      "id": 1409,
+      "artikal": "Slana Palacinka 2kom",
+      "cena": 499
+    }
+  ]	
+}

@@ -1,0 +1,16 @@
+{
+  "id": 24,
+  "kategorija": "HLEB",
+  "artikli": [
+    {
+      "id": 2401,
+      "artikal": "Lepinja 1kom",
+      "cena": 70
+    },
+    {
+      "id": 2402,
+      "artikal": "Becarac 200g",
+      "cena": 250
+    }
+  ]	
+}

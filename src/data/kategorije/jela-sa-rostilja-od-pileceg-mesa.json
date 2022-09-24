@@ -1,0 +1,41 @@
+{
+  "id": 19,
+  "kategorija": "JELA SA ROSTILJA OD PILECEG MESA",
+  "artikli": [
+    {
+      "id": 1901,
+      "artikal": "Pileci file na zaru 400g",
+      "cena": 550
+    },
+    {
+      "id": 1902,
+      "artikal": "Punjeni pileci file 400g",
+      "cena": 670
+    },
+    {
+      "id": 1903,
+      "artikal": "Pileci Oganj 400g",
+      "cena": 800
+    },
+    {
+      "id": 1904,
+      "artikal": "Pileci sote 400g",
+      "cena": 700
+    },
+    {
+      "id": 1905,
+      "artikal": "Pileci raznjic u slanini 400g",
+      "cena": 700
+    },
+    {
+      "id": 1906,
+      "artikal": "Pileca dzigerica u slanini 400g",
+      "cena": 650
+    },
+    {
+      "id": 1907,
+      "artikal": "Pileci prstici 400g",
+      "cena": 700
+    }
+  ]	
+}

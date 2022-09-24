@@ -1,0 +1,66 @@
+{
+  "id": 17,
+  "kategorija": "KUVANA JELA",
+  "artikli": [
+    {
+      "id": 1701,
+      "artikal": "Teleca glava 400g",
+      "cena": 700
+    },
+    {
+      "id": 1702,
+      "artikal": "Teleci repovi 400g",
+      "cena": 700
+    },
+    {
+      "id": 1703,
+      "artikal": "Muckalica 400g",
+      "cena": 600
+    },
+    {
+      "id": 1704,
+      "artikal": "Pileci sote 400g",
+      "cena": 700
+    },
+    {
+      "id": 1705,
+      "artikal": "Pasulj tavce 300g",
+      "cena": 300
+    },
+    {
+      "id": 1706,
+      "artikal": "Pasulj tavce sa kobasicom 400g",
+      "cena": 370
+    },
+    {
+      "id": 1707,
+      "artikal": "Pasulj tavce sa slaninom 400g",
+      "cena": 370
+    },
+    {
+      "id": 1708,
+      "artikal": "Gulas 400g",
+      "cena": 650
+    },
+    {
+      "id": 1709,
+      "artikal": "Lovacki gulas 400g",
+      "cena": 790
+    },
+    {
+      "id": 1710,
+      "artikal": "Sarmice u vinovom listu 400g",
+      "cena": 500
+    },
+    {
+      "id": 1711,
+      "artikal": "Sarmice u kupusu 400g",
+      "cena": 500
+    },
+    {
+      "id": 1712,
+      "artikal": "Punjene paprike 400g",
+      "cena": 500
+    }
+  ]	
+}

@@ -1,0 +1,25 @@
+.order-info-body {
+  display: none;
+}
+
+.order-info-row {
+  display: flex;
+  padding: 8px 0;
+  border-bottom: 1px solid #d5d5d5;
+}
+
+.order-info-header {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.order-info-column-name {
+  flex-basis: 80%;
+}
+
+.order-info-column-quantity {
+  flex-shrink: 0;
+  flex-basis: 20%;
+  text-align: center;
+  text-align: right;
+}

@@ -1,0 +1,36 @@
+{
+  "id": 25,
+  "kategorija": "DESERT",
+  "artikli": [
+    {
+      "id": 2501,
+      "artikal": "Baklava 1kom",
+      "cena": 150
+    },
+    {
+      "id": 2502,
+      "artikal": "Orasnica 1kom",
+      "cena": 160
+    },
+    {
+      "id": 2503,
+      "artikal": "Palacinke krem 2kom",
+      "cena": 250
+    },
+    {
+      "id": 2504,
+      "artikal": "Palacinke med-orasi 2kom",
+      "cena": 270
+    },
+    {
+      "id": 2505,
+      "artikal": "Palacinke dzem 2kom",
+      "cena": 230
+    },
+    {
+      "id": 2506,
+      "artikal": "Ognjiste ledeni desert 1kom",
+      "cena": 300
+    }
+  ]	
+}

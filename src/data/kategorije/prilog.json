@@ -1,0 +1,21 @@
+{
+  "id": 23,
+  "kategorija": "PRILOG",
+  "artikli": [
+    {
+      "id": 2301,
+      "artikal": "Pekarski krompir 250g",
+      "cena": 300
+    },
+    {
+      "id": 2302,
+      "artikal": "Pomfrit 250g",
+      "cena": 300
+    },
+    {
+      "id": 2303,
+      "artikal": "Grilovano povrce 250g",
+      "cena": 300
+    }
+  ]	
+}

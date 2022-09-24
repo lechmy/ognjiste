@@ -1,0 +1,27 @@
+.table {
+  width: 160px;
+  height: 100px;
+  border-radius: 30px;
+  background: #efefef;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  cursor: pointer;
+  background: url(../../assets/images/table.jpg) no-repeat;
+  background-size: cover;
+  color: rgb(49, 49, 49);
+  font-weight: bold;
+  gap: 5px;
+}
+.table small {
+  font-size: 12px;
+}
+.table.active {
+  border: 2px solid rgb(117, 144, 207);
+}
+.table.paid {
+  opacity: 0.3;
+  cursor: default;
+}

@@ -1,0 +1,71 @@
+{
+  "id": 11,
+  "kategorija": "VINA 0.187",
+  "artikli": [
+    {
+      "id": 1101,
+      "artikal": "Tikves Temjanika 0.187",
+      "cena": 400
+    },
+    {
+      "id": 1102,
+      "artikal": "Alexandria Bela 0.187",
+      "cena": 400
+    },
+    {
+      "id": 1103,
+      "artikal": "Alexandria Crv. 0.187",
+      "cena": 400
+    },
+    {
+      "id": 1104,
+      "artikal": "Alexandria Rose 0.187",
+      "cena": 400
+    },
+    {
+      "id": 1105,
+      "artikal": "100.Suza 0.187",
+      "cena": 400
+    },
+    {
+      "id": 1106,
+      "artikal": "Dert Stari Dani 0.187",
+      "cena": 390
+    },
+    {
+      "id": 1107,
+      "artikal": "Sangria Crvena 0.187",
+      "cena": 350
+    },
+    {
+      "id": 1108,
+      "artikal": "Sangria Bela 0.187",
+      "cena": 350
+    },
+    {
+      "id": 1109,
+      "artikal": "Kupina Coka 0.187",
+      "cena": 380
+    },
+    {
+      "id": 1110,
+      "artikal": "Malina Coka 0.187",
+      "cena": 380
+    },
+    {
+      "id": 1111,
+      "artikal": "Aronija Coka 0.187",
+      "cena": 380
+    },				
+    {
+      "id": 1112,
+      "artikal": "Visnja Coka 0.187",
+      "cena": 380
+    },				
+    {
+      "id": 1113,
+      "artikal": "Somersby 0.187",
+      "cena": 350
+    }
+  ]
+}

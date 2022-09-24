@@ -1,0 +1,26 @@
+:root {
+  --primary: #0f9603;
+  --primary-20: rgba(15, 150, 3, 0.2);
+  --black: #272727;
+  --gray: #b3b3b3;
+  --error: #eb4444;
+}
+
+.app {
+  width: 100%;
+}
+
+.app-content {
+  display: flex;
+
+  height: 85vh;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-center {
+  text-align: center !important;
+}

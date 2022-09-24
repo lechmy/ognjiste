@@ -1,0 +1,46 @@
+{
+  "id": 10,
+  "kategorija": "VINA 1L",
+  "artikli": [
+    {
+      "id": 1001,
+      "artikal": "Smederevka T.1L",
+      "cena": 1100
+    },
+    {
+      "id": 1002,
+      "artikal": "Kratosija T.1L",
+      "cena": 1100
+    },
+    {
+      "id": 1003,
+      "artikal": "Rose Tikves 1L",
+      "cena": 1100
+    },
+    {
+      "id": 1004,
+      "artikal": "Krstac 13.jul 1L",
+      "cena": 1100
+    },
+    {
+      "id": 1005,
+      "artikal": "Vranac 13.jul 1L",
+      "cena": 1100
+    },
+    {
+      "id": 1006,
+      "artikal": "Grasevina Stobi 1L",
+      "cena": 1100
+    },
+    {
+      "id": 1007,
+      "artikal": "Vranac Vilarov 1L",
+      "cena": 1100
+    },
+    {
+      "id": 1008,
+      "artikal": "Rose Stobi 1L",
+      "cena": 1100
+    }
+  ]	
+}

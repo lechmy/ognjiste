@@ -1,0 +1,31 @@
+{
+  "id": 8,
+  "kategorija": "TOPLI NAPITCI",
+  "artikli": [
+    {
+      "id": 81,
+      "artikal": "Domaca kafa",
+      "cena": 80
+    },
+    {
+      "id": 82,
+      "artikal": "Espesso",
+      "cena": 130
+    },
+    {
+      "id": 83,
+      "artikal": "Caj Kamilica",
+      "cena": 100
+    },
+    {
+      "id": 84,
+      "artikal": "Caj Menta",
+      "cena": 100
+    },
+    {
+      "id": 85,
+      "artikal": "Caj Sumsko voce",
+      "cena": 100
+    }
+  ]	
+}

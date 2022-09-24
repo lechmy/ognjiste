@@ -1,0 +1,50 @@
+@media print {
+  body {
+    font-family: monospace;
+    margin: 0px;
+  }
+
+  .modal-controls {
+    display: none;
+  }
+
+  .active-bill {
+    break-after: avoid;
+  }
+
+  .order-info-body,
+  .print-daily-report,
+  .report-body,
+  .active-bill {
+    display: block;
+    position: relative;
+    top: 0;
+    left: 0;
+    height: auto;
+    /* width: auto; */
+    width: 48mm;
+    padding: 0;
+    transform: none;
+    font-size: 12px;
+  }
+
+  .row-header {
+    font-weight: 400;
+    font-size: 12px;
+  }
+
+  .order-info-row,
+  .articles-row,
+  .report-row,
+  .print-check-details div {
+    border-bottom: 1px dashed black;
+  }
+
+  .print-disable {
+    display: none;
+  }
+
+  .check-signature {
+    display: block;
+  }
+}

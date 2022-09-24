@@ -1,0 +1,16 @@
+{	
+  "id": 5,
+  "kategorija": "ENERGETSKA PICA",
+  "artikli": [
+    {
+      "id": 51,
+      "artikal": "Red Bul 0.25",
+      "cena": 370
+    },	
+    {
+      "id": 52,
+      "artikal": "Ultra 0.25",
+      "cena": 300
+    }
+  ]	
+}

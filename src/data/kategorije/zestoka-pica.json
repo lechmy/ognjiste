@@ -1,0 +1,61 @@
+{
+  "id": 7,
+  "kategorija": "ZESTOKA PICA",
+  "artikli": [
+    {
+      "id": 71,
+      "artikal": "Johny walker 0.03",
+      "cena": 290
+    },
+    {
+      "id": 72,
+      "artikal": "Jameson 0.03",
+      "cena": 330
+    },
+    {
+      "id": 73,
+      "artikal": "Jack Daniels 0.03",
+      "cena": 330
+    },
+    {
+      "id": 74,
+      "artikal": "Ballantines 0.03",
+      "cena": 250
+    },
+    {
+      "id": 75,
+      "artikal": "Chivas Regal 0.03",
+      "cena": 390
+    },
+    {
+      "id": 76,
+      "artikal": "Stara Sok.Sljiva 0.03",
+      "cena": 290
+    },
+      {
+      "id": 77,
+      "artikal": "Stara Sok.Dunja 0.03",
+      "cena": 300
+    },
+    {
+      "id": 78,
+      "artikal": "Stara Sok.Viljamov.0.03",
+      "cena": 260
+    },
+    {
+      "id": 79,
+      "artikal": "Stara Sok.Medov.0.03",
+      "cena": 260
+    },
+    {
+      "id": 710,
+      "artikal": "Stara Sok.Travka 0.03",
+      "cena": 280
+    },
+    {
+      "id": 711,
+      "artikal": "Zuta Osa Sljiva 0.03",
+      "cena": 290
+    }
+  ]	
+}

@@ -1,0 +1,51 @@
+{
+  "id": 26,
+  "kategorija": "DORUCAK",
+  "artikli": [
+    {
+      "id": 2601,
+      "artikal": "Omlet slanina",
+      "cena": 250				
+    },
+    {
+      "id": 2602,
+      "artikal": "Omlet kobasica",
+      "cena": 250
+    },
+    {
+      "id": 2603,
+      "artikal": "Omlet sir",
+      "cena": 250
+    },
+    {
+      "id": 2604,
+      "artikal": "Omlet paprika",
+      "cena": 250
+    },
+    {
+      "id": 2605,
+      "artikal": "Ognjiste dorucak",
+      "cena": 300
+    },
+    {
+      "id": 2606,
+      "artikal": "Biznis dorucak",
+      "cena": 300
+    },
+    {
+      "id": 2607,
+      "artikal": "Seljacki dorucak",
+      "cena": 450
+    },
+    {
+      "id": 2608,
+      "artikal": "Ognjiste topli sendvic",
+      "cena": 250
+    },
+    {
+      "id": 2609,
+      "artikal": "Jaja na oko-3 kom",
+      "cena": 180
+    }
+  ]	
+}

@@ -1,0 +1,39 @@
+{
+  "workers": [
+    {
+      "id": 1,
+      "name": "Nikola",
+      "password": "1"
+    },
+    {
+      "id": 2,
+      "name": "Natalija",
+      "password": "2"
+    },
+    {
+      "id": 3,
+      "name": "Dejan",
+      "password": "3"
+    },
+    {
+      "id": 4,
+      "name": "Konobar 1",
+      "password": "4"
+    },
+    {
+      "id": 5,
+      "name": "Konobar 2",
+      "password": "5"
+    },
+    {
+      "id": 6,
+      "name": "Konobar 3",
+      "password": "6"
+    },
+    {
+      "id": 7,
+      "name": "Admin",
+      "password": "adminnadja"
+    }
+  ]
+}

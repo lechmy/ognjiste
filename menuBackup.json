@@ -1,0 +1,1525 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "kategorija": "PIVA",
+      "artikli": [
+        {
+          "id": 11,
+          "artikal": "Zajecarsko 0.5",
+          "cena": 170
+        },
+        {
+          "id": 12,
+          "artikal": "Zajecarsko 0.33",
+          "cena": 220
+        },
+        {
+          "id": 13,
+          "artikal": "Birra Morreti 0.4",
+          "cena": 180
+        },
+        {
+          "id": 14,
+          "artikal": "Lasko 0.5",
+          "cena": 210
+        },
+        {
+          "id": 15,
+          "artikal": "Lasko 0.33",
+          "cena": 220
+        },
+        {
+          "id": 16,
+          "artikal": "Tuborg 0.5",
+          "cena": 250
+        },
+        {
+          "id": 17,
+          "artikal": "Tuborg 0.33",
+          "cena": 250
+        },
+        {
+          "id": 18,
+          "artikal": "Heineken 0.4",
+          "cena": 250
+        },
+        {
+          "id": 19,
+          "artikal": "Heineken 0.25",
+          "cena": 280
+        },
+        {
+          "id": 110,
+          "artikal": "Carlsberg 0.33",
+          "cena": 290
+        },
+        {
+          "id": 111,
+          "artikal": "Heineken TOC0.5",
+          "cena": 290
+        },
+        {
+          "id": 112,
+          "artikal": "Heineken TOC.0.35",
+          "cena": 230
+        },
+        {
+          "id": 113,
+          "artikal": "Birra M.TOC.0.5",
+          "cena": 240
+        },
+        {
+          "id": 114,
+          "artikal": "Birra M.TOC.0.25",
+          "cena": 160
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "kategorija": "SOKOVI",
+      "artikli": [
+        {
+          "id": 21,
+          "artikal": "coca cola 0.25",
+          "cena": 190
+        },
+        {
+          "id": 22,
+          "artikal": "Coca cola zero 0.25",
+          "cena": 190
+        },
+        {
+          "id": 23,
+          "artikal": "Fanta 0.25",
+          "cena": 190
+        },
+        {
+          "id": 24,
+          "artikal": "Sveps Biter 0.25",
+          "cena": 190
+        },
+        {
+          "id": 25,
+          "artikal": "sveps tonik 0.25",
+          "cena": 190
+        },
+        {
+          "id": 26,
+          "artikal": "sprite 0.25",
+          "cena": 190
+        },
+        {
+          "id": 27,
+          "artikal": "Cocta 0.25",
+          "cena": 190
+        },
+        {
+          "id": 28,
+          "artikal": "Sveps PINK Tonic 0.25",
+          "cena": 190
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "kategorija": "NEGAZIRANI",
+      "artikli": [
+        {
+          "id": 31,
+          "artikal": "next jagoda 0.2",
+          "cena": 190
+        },
+        {
+          "id": 32,
+          "artikal": "next breskva 0.2",
+          "cena": 190
+        },
+        {
+          "id": 33,
+          "artikal": "next narandza 0.2",
+          "cena": 190
+        },
+        {
+          "id": 34,
+          "artikal": "next sumsko voce 0.2",
+          "cena": 190
+        },
+        {
+          "id": 35,
+          "artikal": "next jabuka 0.2",
+          "cena": 190
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "kategorija": "VODE",
+      "artikli": [
+        {
+          "id": 41,
+          "artikal": "Heba 1L",
+          "cena": 140
+        },
+        {
+          "id": 42,
+          "artikal": "Heba neg 0.25",
+          "cena": 100
+        },
+        {
+          "id": 43,
+          "artikal": "Heba 0.25",
+          "cena": 100
+        },
+        {
+          "id": 44,
+          "artikal": "Heba negaz. 1L",
+          "cena": 170
+        },
+        {
+          "id": 45,
+          "artikal": "Knjaz 1L",
+          "cena": 150
+        },
+        {
+          "id": 46,
+          "artikal": "Knjaz 0.25",
+          "cena": 100
+        },
+        {
+          "id": 47,
+          "artikal": "Aqua Viva 1L neg.",
+          "cena": 170
+        },
+        {
+          "id": 48,
+          "artikal": "Aqua Viva 0.25 neg",
+          "cena": 100
+        },
+        {
+          "id": 49,
+          "artikal": "Rosa 0.75",
+          "cena": 220
+        },
+        {
+          "id": 410,
+          "artikal": "Rosa 0.33",
+          "cena": 120
+        },
+        {
+          "id": 411,
+          "artikal": "Roemerquelle 0.75",
+          "cena": 230
+        },
+        {
+          "id": 412,
+          "artikal": "Roemerquelle 0.33",
+          "cena": 130
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "kategorija": "ENERGETSKA PICA",
+      "artikli": [
+        {
+          "id": 51,
+          "artikal": "Red Bul 0.25",
+          "cena": 370
+        },
+        {
+          "id": 52,
+          "artikal": "Ultra 0.25",
+          "cena": 300
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "kategorija": "APERITIVI",
+      "artikli": [
+        {
+          "id": 61,
+          "artikal": "Stomaklija Prokupac 0.05",
+          "cena": 170
+        },
+        {
+          "id": 62,
+          "artikal": "Lincura Takovo 0.05",
+          "cena": 180
+        },
+        {
+          "id": 63,
+          "artikal": "Mastika 0.05",
+          "cena": 210
+        },
+        {
+          "id": 64,
+          "artikal": "Loza 13.jul",
+          "cena": 180
+        },
+        {
+          "id": 65,
+          "artikal": "Loza Zolta 0.05",
+          "cena": 160
+        },
+        {
+          "id": 66,
+          "artikal": "Kostic Sljiva 0.05",
+          "cena": 160
+        },
+        {
+          "id": 67,
+          "artikal": "Kostic Dunja 0.05",
+          "cena": 190
+        },
+        {
+          "id": 68,
+          "artikal": "Kostic Viljamovka 0.05",
+          "cena": 190
+        },
+        {
+          "id": 69,
+          "artikal": "Kostic Kajsija 0.05",
+          "cena": 190
+        },
+        {
+          "id": 610,
+          "artikal": "Kostic Zuta Dunja 0.03",
+          "cena": 270
+        },
+        {
+          "id": 611,
+          "artikal": "Kostic Divlja Kruska 0.03",
+          "cena": 270
+        },
+        {
+          "id": 612,
+          "artikal": "Kostic Malina rakija 0.03",
+          "cena": 290
+        },
+        {
+          "id": 613,
+          "artikal": "Kostic Liker Malina 0.05",
+          "cena": 200
+        },
+        {
+          "id": 614,
+          "artikal": "Stari H.Sljiva 0.03",
+          "cena": 150
+        },
+        {
+          "id": 615,
+          "artikal": "Stari H.Dunja 0.03",
+          "cena": 190
+        },
+        {
+          "id": 616,
+          "artikal": "Stari H.Viljamovka 0.03",
+          "cena": 190
+        },
+        {
+          "id": 617,
+          "artikal": "Stari H.Kajsija 0.03",
+          "cena": 190
+        },
+        {
+          "id": 618,
+          "artikal": "Jeger 0.04",
+          "cena": 280
+        },
+        {
+          "id": 619,
+          "artikal": "Vinjak Rubin 0.05",
+          "cena": 180
+        },
+        {
+          "id": 620,
+          "artikal": "Vermut 0.1",
+          "cena": 210
+        },
+        {
+          "id": 621,
+          "artikal": "Martini 0.05",
+          "cena": 250
+        },
+        {
+          "id": 622,
+          "artikal": "Campari 0.05",
+          "cena": 280
+        },
+        {
+          "id": 623,
+          "artikal": "Tekila 0.03",
+          "cena": 190
+        },
+        {
+          "id": 624,
+          "artikal": "Gyn 0.05",
+          "cena": 210
+        },
+        {
+          "id": 625,
+          "artikal": "Badel Brandz 0.05",
+          "cena": 210
+        },
+        {
+          "id": 626,
+          "artikal": "Atlantik Vodka 0.05",
+          "cena": 210
+        },
+        {
+          "id": 627,
+          "artikal": "Baltik vodka 0.05",
+          "cena": 210
+        },
+        {
+          "id": 628,
+          "artikal": "Smirnof vodka 0.03",
+          "cena": 220
+        },
+        {
+          "id": 629,
+          "artikal": "Vodka Finlandia 0.05",
+          "cena": 270
+        },
+        {
+          "id": 630,
+          "artikal": "Gorki list 0.05",
+          "cena": 210
+        },
+        {
+          "id": 631,
+          "artikal": "Zlatna Kajsija 0.05",
+          "cena": 180
+        },
+        {
+          "id": 632,
+          "artikal": "Zlatna Dunja 0.05",
+          "cena": 270
+        },
+        {
+          "id": 633,
+          "artikal": "Zlatna Viljam.0.05",
+          "cena": 270
+        },
+        {
+          "id": 634,
+          "artikal": "Zlatna Sljiva 0.05",
+          "cena": 210
+        },
+        {
+          "id": 635,
+          "artikal": "Zlatni Pelin 0.05",
+          "cena": 190
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "kategorija": "ZESTOKA PICA",
+      "artikli": [
+        {
+          "id": 71,
+          "artikal": "Johny walker 0.03",
+          "cena": 290
+        },
+        {
+          "id": 72,
+          "artikal": "Jameson 0.03",
+          "cena": 330
+        },
+        {
+          "id": 73,
+          "artikal": "Jack Daniels 0.03",
+          "cena": 330
+        },
+        {
+          "id": 74,
+          "artikal": "Ballantines 0.03",
+          "cena": 250
+        },
+        {
+          "id": 75,
+          "artikal": "Chivas Regal 0.03",
+          "cena": 390
+        },
+        {
+          "id": 76,
+          "artikal": "Stara Sok.Sljiva 0.03",
+          "cena": 290
+        },
+        {
+          "id": 77,
+          "artikal": "Stara Sok.Dunja 0.03",
+          "cena": 300
+        },
+        {
+          "id": 78,
+          "artikal": "Stara Sok.Viljamov.0.03",
+          "cena": 260
+        },
+        {
+          "id": 79,
+          "artikal": "Stara Sok.Medov.0.03",
+          "cena": 260
+        },
+        {
+          "id": 710,
+          "artikal": "Stara Sok.Travka 0.03",
+          "cena": 280
+        },
+        {
+          "id": 711,
+          "artikal": "Zuta Osa Sljiva 0.03",
+          "cena": 290
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "kategorija": "TOPLI NAPITCI",
+      "artikli": [
+        {
+          "id": 81,
+          "artikal": "Domaca kafa",
+          "cena": 80
+        },
+        {
+          "id": 82,
+          "artikal": "Espesso",
+          "cena": 130
+        },
+        {
+          "id": 83,
+          "artikal": "Caj Kamilica",
+          "cena": 100
+        },
+        {
+          "id": 84,
+          "artikal": "Caj Menta",
+          "cena": 100
+        },
+        {
+          "id": 85,
+          "artikal": "Caj Sumsko voce",
+          "cena": 100
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "kategorija": "Vina 0.75",
+      "artikli": [
+        {
+          "id": 91,
+          "artikal": "Alal 0.75",
+          "cena": 1700
+        },
+        {
+          "id": 92,
+          "artikal": "Kalabalak 0.75",
+          "cena": 1700
+        },
+        {
+          "id": 93,
+          "artikal": "Dert 0.75",
+          "cena": 1800
+        },
+        {
+          "id": 94,
+          "artikal": "Rose Dionizije 0.75",
+          "cena": 1600
+        },
+        {
+          "id": 95,
+          "artikal": "Vranac Jovic 0.75",
+          "cena": 1800
+        },
+        {
+          "id": 96,
+          "artikal": "Kovacevic Aurelius 0.75",
+          "cena": 3000
+        },
+        {
+          "id": 97,
+          "artikal": "Kovacevic Chardonnay 0.75",
+          "cena": 2900
+        },
+        {
+          "id": 98,
+          "artikal": "8 Tamburasa Z.B 0.75",
+          "cena": 2100
+        },
+        {
+          "id": 99,
+          "artikal": "Rose Zvonko B.0.75",
+          "cena": 2100
+        },
+        {
+          "id": 910,
+          "artikal": "Zivot tece Zvonko B.0.75",
+          "cena": 3000
+        },
+        {
+          "id": 911,
+          "artikal": "Temjanika Spasic 0.75",
+          "cena": 2000
+        },
+        {
+          "id": 912,
+          "artikal": "Despot spasic 0.75",
+          "cena": 2000
+        },
+        {
+          "id": 913,
+          "artikal": "Krstac 13.jul 0.75",
+          "cena": 1100
+        },
+        {
+          "id": 914,
+          "artikal": "Vranac 13.jul 0.75",
+          "cena": 1100
+        },
+        {
+          "id": 915,
+          "artikal": "Vranac ProCorde 0.75",
+          "cena": 1600
+        },
+        {
+          "id": 916,
+          "artikal": "Temjanika 100 suza 0.75",
+          "cena": 2100
+        },
+        {
+          "id": 917,
+          "artikal": "Barbara Aleksic 0.75",
+          "cena": 1500
+        },
+        {
+          "id": 918,
+          "artikal": "Kardas Aleksic 0.75",
+          "cena": 1900
+        },
+        {
+          "id": 919,
+          "artikal": "Zuti cvet Aleksic 0.75",
+          "cena": 1900
+        },
+        {
+          "id": 920,
+          "artikal": "Prokupac Ivanovic 0.75",
+          "cena": 2400
+        },
+        {
+          "id": 921,
+          "artikal": "Petite Rose 0.75",
+          "cena": 1700
+        },
+        {
+          "id": 922,
+          "artikal": "Chardonnay Radovanovic 0.75",
+          "cena": 2600
+        },
+        {
+          "id": 923,
+          "artikal": "Temjanika Stobi 0.75",
+          "cena": 1400
+        },
+        {
+          "id": 924,
+          "artikal": "Acacia Stobi 0.75",
+          "cena": 2500
+        },
+        {
+          "id": 925,
+          "artikal": "Veritas Stobi 0.75",
+          "cena": 2500
+        },
+        {
+          "id": 926,
+          "artikal": "Zilavka Stobi 0.75",
+          "cena": 1000
+        },
+        {
+          "id": 927,
+          "artikal": "Muscat Macedonia 0.75",
+          "cena": 1700
+        },
+        {
+          "id": 928,
+          "artikal": "Cabernet Macedonia 0.75",
+          "cena": 1500
+        },
+        {
+          "id": 929,
+          "artikal": "Alexandria Crvena 0.75",
+          "cena": 1400
+        },
+        {
+          "id": 930,
+          "artikal": "Vranec SS Tikves 0.75",
+          "cena": 1800
+        },
+        {
+          "id": 931,
+          "artikal": "Cabernet Sauvignon SS 0.75",
+          "cena": 1600
+        },
+        {
+          "id": 932,
+          "artikal": "Cabernet&Merlot OAK 0.75",
+          "cena": 1350
+        },
+        {
+          "id": 933,
+          "artikal": "Alexandria Cuvee Crvena 0.75",
+          "cena": 2000
+        },
+        {
+          "id": 934,
+          "artikal": "Alexandria Bela 0.75",
+          "cena": 1400
+        },
+        {
+          "id": 935,
+          "artikal": "Temjanika Tikves 0.75",
+          "cena": 1500
+        },
+        {
+          "id": 936,
+          "artikal": "Temjanika SS Tikves 0.75",
+          "cena": 1700
+        },
+        {
+          "id": 937,
+          "artikal": "Sauvignon Blanc T.0.75",
+          "cena": 1600
+        },
+        {
+          "id": 938,
+          "artikal": "Chardonnay Tikves 0.75",
+          "cena": 1000
+        },
+        {
+          "id": 939,
+          "artikal": "Chardonnay OAK T.0.75",
+          "cena": 1250
+        },
+        {
+          "id": 940,
+          "artikal": "Alexandria Cuvee Bela 0.75",
+          "cena": 2000
+        },
+        {
+          "id": 941,
+          "artikal": "Rose Tikves 0.75",
+          "cena": 1400
+        },
+        {
+          "id": 942,
+          "artikal": "Alexandria Cuvee Rose 0.75",
+          "cena": 2000
+        },
+        {
+          "id": 943,
+          "artikal": "Alexandria Rose Classic 0.75",
+          "cena": 1400
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "kategorija": "VINA 1L",
+      "artikli": [
+        {
+          "id": 1001,
+          "artikal": "Smederevka T.1L",
+          "cena": 1100
+        },
+        {
+          "id": 1002,
+          "artikal": "Kratosija T.1L",
+          "cena": 1100
+        },
+        {
+          "id": 1003,
+          "artikal": "Rose Tikves 1L",
+          "cena": 1100
+        },
+        {
+          "id": 1004,
+          "artikal": "Krstac 13.jul 1L",
+          "cena": 1100
+        },
+        {
+          "id": 1005,
+          "artikal": "Vranac 13.jul 1L",
+          "cena": 1100
+        },
+        {
+          "id": 1006,
+          "artikal": "Grasevina Stobi 1L",
+          "cena": 1100
+        },
+        {
+          "id": 1007,
+          "artikal": "Vranac Vilarov 1L",
+          "cena": 1100
+        },
+        {
+          "id": 1008,
+          "artikal": "Rose Stobi 1L",
+          "cena": 1100
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "kategorija": "VINA 0.187",
+      "artikli": [
+        {
+          "id": 1101,
+          "artikal": "Tikves Temjanika 0.187",
+          "cena": 400
+        },
+        {
+          "id": 1102,
+          "artikal": "Alexandria Bela 0.187",
+          "cena": 400
+        },
+        {
+          "id": 1103,
+          "artikal": "Alexandria Crv. 0.187",
+          "cena": 400
+        },
+        {
+          "id": 1104,
+          "artikal": "Alexandria Rose 0.187",
+          "cena": 400
+        },
+        {
+          "id": 1105,
+          "artikal": "100.Suza 0.187",
+          "cena": 400
+        },
+        {
+          "id": 1106,
+          "artikal": "Dert Stari Dani 0.187",
+          "cena": 390
+        },
+        {
+          "id": 1107,
+          "artikal": "Sangria Crvena 0.187",
+          "cena": 350
+        },
+        {
+          "id": 1108,
+          "artikal": "Sangria Bela 0.187",
+          "cena": 350
+        },
+        {
+          "id": 1109,
+          "artikal": "Kupina Coka 0.187",
+          "cena": 380
+        },
+        {
+          "id": 1110,
+          "artikal": "Malina Coka 0.187",
+          "cena": 380
+        },
+        {
+          "id": 1111,
+          "artikal": "Aronija Coka 0.187",
+          "cena": 380
+        },
+        {
+          "id": 1112,
+          "artikal": "Visnja Coka 0.187",
+          "cena": 380
+        },
+        {
+          "id": 1113,
+          "artikal": "Somersby 0.187",
+          "cena": 350
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "kategorija": "SIREVI",
+      "artikli": [
+        {
+          "id": 1201,
+          "artikal": "Kravlji sir 200g",
+          "cena": 350
+        },
+        {
+          "id": 1202,
+          "artikal": "Mesanac sir 200g",
+          "cena": 350
+        },
+        {
+          "id": 1203,
+          "artikal": "Ovciji sir 200g",
+          "cena": 400
+        },
+        {
+          "id": 1204,
+          "artikal": "Kozji sir 200g",
+          "cena": 400
+        },
+        {
+          "id": 1205,
+          "artikal": "Dimljeni sir 200g",
+          "cena": 340
+        },
+        {
+          "id": 1206,
+          "artikal": "Sir sa biljkama 200g",
+          "cena": 300
+        },
+        {
+          "id": 1207,
+          "artikal": "Kajmak 200 g",
+          "cena": 380
+        },
+        {
+          "id": 1208,
+          "artikal": "Paprika u pavlaci 200g",
+          "cena": 330
+        },
+        {
+          "id": 1209,
+          "artikal": "Pretrljana 250g",
+          "cena": 300
+        },
+        {
+          "id": 1210,
+          "artikal": "Urnebes 250g",
+          "cena": 300
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "kategorija": "HLADNA PREDJELA",
+      "artikli": [
+        {
+          "id": 1301,
+          "artikal": "Njeguska prsuta 100g",
+          "cena": 450
+        },
+        {
+          "id": 1302,
+          "artikal": "Govedja prsuta 100g",
+          "cena": 450
+        },
+        {
+          "id": 1303,
+          "artikal": "Seljacko suvo meso 100g",
+          "cena": 350
+        },
+        {
+          "id": 1304,
+          "artikal": "Svinjska prsuta 100g",
+          "cena": 450
+        },
+        {
+          "id": 1305,
+          "artikal": "Sudzuk 100g",
+          "cena": 250
+        },
+        {
+          "id": 1306,
+          "artikal": "Daska Oganj 450g",
+          "cena": 2100
+        },
+        {
+          "id": 1307,
+          "artikal": "Daska Ognjiste 450 g",
+          "cena": 1500
+        },
+        {
+          "id": 1308,
+          "artikal": "Cvarci 200g",
+          "cena": 450
+        },
+        {
+          "id": 1309,
+          "artikal": "Pihtije 3dl",
+          "cena": 400
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "kategorija": "TOPLA PREDJELA",
+      "artikli": [
+        {
+          "id": 1401,
+          "artikal": "Dimljeni sir na zaru 200g",
+          "cena": 380
+        },
+        {
+          "id": 1402,
+          "artikal": "Paprika u slanini 1kom",
+          "cena": 200
+        },
+        {
+          "id": 1403,
+          "artikal": "Pohovane paprike 2 kom",
+          "cena": 150
+        },
+        {
+          "id": 1404,
+          "artikal": "Pohovani kackavalj 250g",
+          "cena": 430
+        },
+        {
+          "id": 1405,
+          "artikal": "Pecurke na zaru 250g",
+          "cena": 280
+        },
+        {
+          "id": 1406,
+          "artikal": "Pohovani dimljeni sir 200g",
+          "cena": 380
+        },
+        {
+          "id": 1407,
+          "artikal": "Topeno sirenje 400g",
+          "cena": 550
+        },
+        {
+          "id": 1408,
+          "artikal": "Ognjiste lepinja 1kom",
+          "cena": 390
+        },
+        {
+          "id": 1409,
+          "artikal": "Slana Palacinka 2kom",
+          "cena": 499
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "kategorija": "CORBE",
+      "artikli": [
+        {
+          "id": 1501,
+          "artikal": "Teleca corba 2.5dl",
+          "cena": 250
+        },
+        {
+          "id": 1502,
+          "artikal": "Pileca corba 2.5dl",
+          "cena": 220
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "kategorija": "SALATE",
+      "artikli": [
+        {
+          "id": 1601,
+          "artikal": "Sopska 400g",
+          "cena": 330
+        },
+        {
+          "id": 1602,
+          "artikal": "Srpska 400g",
+          "cena": 330
+        },
+        {
+          "id": 1603,
+          "artikal": "Moravska 400g",
+          "cena": 350
+        },
+        {
+          "id": 1604,
+          "artikal": "Vitaminska 250g",
+          "cena": 280
+        },
+        {
+          "id": 1605,
+          "artikal": "Svez kupus 250g",
+          "cena": 250
+        },
+        {
+          "id": 1606,
+          "artikal": "Paprika belolucena ljuta 1kom",
+          "cena": 50
+        },
+        {
+          "id": 1607,
+          "artikal": "Paprika slatka belolucena 1kom",
+          "cena": 70
+        },
+        {
+          "id": 1608,
+          "artikal": "Krastavac salata 250g",
+          "cena": 200
+        },
+        {
+          "id": 1609,
+          "artikal": "Paradajz salata 250g",
+          "cena": 200
+        },
+        {
+          "id": 1610,
+          "artikal": "Grcka salata 400g",
+          "cena": 400
+        },
+        {
+          "id": 1611,
+          "artikal": "Kiseli kupus 300g",
+          "cena": 300
+        },
+        {
+          "id": 1612,
+          "artikal": "Podrum salata 500g",
+          "cena": 510
+        },
+        {
+          "id": 1613,
+          "artikal": "Basta salata 500g",
+          "cena": 500
+        },
+        {
+          "id": 1614,
+          "artikal": "Masline 100g",
+          "cena": 200
+        },
+        {
+          "id": 1615,
+          "artikal": "Zelena salata 250g",
+          "cena": 200
+        },
+        {
+          "id": 1616,
+          "artikal": "Trljanica 250g",
+          "cena": 350
+        },
+        {
+          "id": 1617,
+          "artikal": "Ajvar 200g",
+          "cena": 280
+        },
+        {
+          "id": 1618,
+          "artikal": "Ljutenica 200g",
+          "cena": 250
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "kategorija": "KUVANA JELA",
+      "artikli": [
+        {
+          "id": 1701,
+          "artikal": "Teleca glava 400g",
+          "cena": 700
+        },
+        {
+          "id": 1702,
+          "artikal": "Teleci repovi 400g",
+          "cena": 700
+        },
+        {
+          "id": 1703,
+          "artikal": "Muckalica 400g",
+          "cena": 600
+        },
+        {
+          "id": 1704,
+          "artikal": "Pileci sote 400g",
+          "cena": 700
+        },
+        {
+          "id": 1705,
+          "artikal": "Pasulj tavce 300g",
+          "cena": 300
+        },
+        {
+          "id": 1706,
+          "artikal": "Pasulj tavce sa kobasicom 400g",
+          "cena": 370
+        },
+        {
+          "id": 1707,
+          "artikal": "Pasulj tavce sa slaninom 400g",
+          "cena": 370
+        },
+        {
+          "id": 1708,
+          "artikal": "Gulas 400g",
+          "cena": 650
+        },
+        {
+          "id": 1709,
+          "artikal": "Lovacki gulas 400g",
+          "cena": 790
+        },
+        {
+          "id": 1710,
+          "artikal": "Sarmice u vinovom listu 400g",
+          "cena": 500
+        },
+        {
+          "id": 1711,
+          "artikal": "Sarmice u kupusu 400g",
+          "cena": 500
+        },
+        {
+          "id": 1712,
+          "artikal": "Punjene paprike 400g",
+          "cena": 500
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "kategorija": "JELA SA ROSTILJA OD MLEVENOG MESA",
+      "artikli": [
+        {
+          "id": 1801,
+          "artikal": "Pljeskavica 200g",
+          "cena": 350
+        },
+        {
+          "id": 1802,
+          "artikal": "Pljeskavica 400g",
+          "cena": 650
+        },
+        {
+          "id": 1803,
+          "artikal": "Gurmanska pljeskavica 400g",
+          "cena": 660
+        },
+        {
+          "id": 1804,
+          "artikal": "Ustipci 400g",
+          "cena": 700
+        },
+        {
+          "id": 1805,
+          "artikal": "Cevapi 10kom 400g",
+          "cena": 700
+        },
+        {
+          "id": 1806,
+          "artikal": "Cevapi 5kom 200g",
+          "cena": 350
+        },
+        {
+          "id": 1807,
+          "artikal": "Punjeni cevap 400g",
+          "cena": 700
+        },
+        {
+          "id": 1808,
+          "artikal": "Kobasica 1kg",
+          "cena": 1700
+        },
+        {
+          "id": 1809,
+          "artikal": "Ognjiste pljeskavica 600g",
+          "cena": 890
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "kategorija": "JELA SA ROSTILJA OD PILECEG MESA",
+      "artikli": [
+        {
+          "id": 1901,
+          "artikal": "Pileci file na zaru 400g",
+          "cena": 550
+        },
+        {
+          "id": 1902,
+          "artikal": "Punjeni pileci file 400g",
+          "cena": 670
+        },
+        {
+          "id": 1903,
+          "artikal": "Pileci Oganj 400g",
+          "cena": 800
+        },
+        {
+          "id": 1904,
+          "artikal": "Pileci sote 400g",
+          "cena": 700
+        },
+        {
+          "id": 1905,
+          "artikal": "Pileci raznjic u slanini 400g",
+          "cena": 700
+        },
+        {
+          "id": 1906,
+          "artikal": "Pileca dzigerica u slanini 400g",
+          "cena": 650
+        },
+        {
+          "id": 1907,
+          "artikal": "Pileci prstici 400g",
+          "cena": 700
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "kategorija": "JELA SA ROSTILJA OD SVINJSKOG MESA",
+      "artikli": [
+        {
+          "id": 2001,
+          "artikal": "Bela vesalica 400g",
+          "cena": 850
+        },
+        {
+          "id": 2002,
+          "artikal": "Punjena bela vesalica 400g",
+          "cena": 850
+        },
+        {
+          "id": 2003,
+          "artikal": "Kare na kajmaku 400g",
+          "cena": 850
+        },
+        {
+          "id": 2004,
+          "artikal": "Kare u sosu od vrganja 400g",
+          "cena": 900
+        },
+        {
+          "id": 2005,
+          "artikal": "Svinjski raznjic 400g",
+          "cena": 700
+        },
+        {
+          "id": 2006,
+          "artikal": "Karadjordjeva snicla 300g",
+          "cena": 690
+        },
+        {
+          "id": 2007,
+          "artikal": "Svezi svinjski vrat 400g",
+          "cena": 780
+        },
+        {
+          "id": 2008,
+          "artikal": "Dimljeni vrat 400g",
+          "cena": 890
+        },
+        {
+          "id": 2009,
+          "artikal": "Dimljena svinjska rebra na kajmaku 400g",
+          "cena": 880
+        },
+        {
+          "id": 2010,
+          "artikal": "Paketic Oganj 500g",
+          "cena": 930
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "kategorija": "RIBA",
+      "artikli": [
+        {
+          "id": 2101,
+          "artikal": "Pastrmka na zaru 1kg",
+          "cena": 1600
+        },
+        {
+          "id": 2102,
+          "artikal": "Orada 1kg",
+          "cena": 2000
+        },
+        {
+          "id": 2103,
+          "artikal": "Brancin 1kg",
+          "cena": 2000
+        },
+        {
+          "id": 2104,
+          "artikal": "File pastrmke 1kg",
+          "cena": 2800
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "kategorija": "SPECIJALITETI KUCE",
+      "artikli": [
+        {
+          "id": 2201,
+          "artikal": "Dimljena butkica 1kg",
+          "cena": 1800
+        },
+        {
+          "id": 2202,
+          "artikal": "Svinjski medaljoni u sosu od vrganja 400g",
+          "cena": 950
+        },
+        {
+          "id": 2203,
+          "artikal": "Sablja Ognjiste 2kg mesa",
+          "cena": 6900
+        },
+        {
+          "id": 2204,
+          "artikal": "Staroplaninska bukovaca 200g",
+          "cena": 350
+        },
+        {
+          "id": 2205,
+          "artikal": "Teletina ispod saca 1kg",
+          "cena": 2900
+        },
+        {
+          "id": 2206,
+          "artikal": "Jagnjetina 1kg",
+          "cena": 2000
+        },
+        {
+          "id": 2207,
+          "artikal": "Prasetina 1 kg",
+          "cena": 1600
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "kategorija": "PRILOG",
+      "artikli": [
+        {
+          "id": 2301,
+          "artikal": "Pekarski krompir 250g",
+          "cena": 300
+        },
+        {
+          "id": 2302,
+          "artikal": "Pomfrit 250g",
+          "cena": 300
+        },
+        {
+          "id": 2303,
+          "artikal": "Grilovano povrce 250g",
+          "cena": 300
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "kategorija": "HLEB",
+      "artikli": [
+        {
+          "id": 2401,
+          "artikal": "Lepinja 1kom",
+          "cena": 70
+        },
+        {
+          "id": 2402,
+          "artikal": "Becarac 200g",
+          "cena": 250
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "kategorija": "DESERT",
+      "artikli": [
+        {
+          "id": 2501,
+          "artikal": "Baklava 1kom",
+          "cena": 150
+        },
+        {
+          "id": 2502,
+          "artikal": "Orasnica 1kom",
+          "cena": 160
+        },
+        {
+          "id": 2503,
+          "artikal": "Palacinke krem 2kom",
+          "cena": 250
+        },
+        {
+          "id": 2504,
+          "artikal": "Palacinke med-orasi 2kom",
+          "cena": 270
+        },
+        {
+          "id": 2505,
+          "artikal": "Palacinke dzem 2kom",
+          "cena": 230
+        },
+        {
+          "id": 2506,
+          "artikal": "Ognjiste ledeni desert 1kom",
+          "cena": 300
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "kategorija": "DORUCAK",
+      "artikli": [
+        {
+          "id": 2601,
+          "artikal": "Omlet slanina",
+          "cena": 250
+        },
+        {
+          "id": 2602,
+          "artikal": "Omlet kobasica",
+          "cena": 250
+        },
+        {
+          "id": 2603,
+          "artikal": "Omlet sir",
+          "cena": 250
+        },
+        {
+          "id": 2604,
+          "artikal": "Omlet paprika",
+          "cena": 250
+        },
+        {
+          "id": 2605,
+          "artikal": "Ognjiste dorucak",
+          "cena": 300
+        },
+        {
+          "id": 2606,
+          "artikal": "Biznis dorucak",
+          "cena": 300
+        },
+        {
+          "id": 2607,
+          "artikal": "Seljacki dorucak",
+          "cena": 450
+        },
+        {
+          "id": 2608,
+          "artikal": "Ognjiste topli sendvic",
+          "cena": 250
+        },
+        {
+          "id": 2609,
+          "artikal": "Jaja na oko-3 kom",
+          "cena": 180
+        }
+      ]
+    }
+  ]
+}

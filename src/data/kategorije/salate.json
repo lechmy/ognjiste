@@ -1,0 +1,96 @@
+{
+  "id": 16,
+  "kategorija": "SALATE",
+  "artikli": [
+    {
+      "id": 1601,
+      "artikal": "Sopska 400g",
+      "cena": 330
+    },
+    {
+      "id": 1602,
+      "artikal": "Srpska 400g",
+      "cena": 330
+    },
+    {
+      "id": 1603,
+      "artikal": "Moravska 400g",
+      "cena": 350
+    },
+    {
+      "id": 1604,
+      "artikal": "Vitaminska 250g",
+      "cena": 280
+    },
+    {
+      "id": 1605,
+      "artikal": "Svez kupus 250g",
+      "cena": 250
+    },
+    {
+      "id": 1606,
+      "artikal": "Paprika belolucena ljuta 1kom",
+      "cena": 50
+    },
+    {
+      "id": 1607,
+      "artikal": "Paprika slatka belolucena 1kom",
+      "cena": 70
+    },
+    {
+      "id": 1608,
+      "artikal": "Krastavac salata 250g",
+      "cena": 200
+    },
+    {
+      "id": 1609,
+      "artikal": "Paradajz salata 250g",
+      "cena": 200
+    },
+    {
+      "id": 1610,
+      "artikal": "Grcka salata 400g",
+      "cena": 400
+    },
+    {
+      "id": 1611,
+      "artikal": "Kiseli kupus 300g",
+      "cena": 300
+    },
+    {
+      "id": 1612,
+      "artikal": "Podrum salata 500g",
+      "cena": 510
+    },
+    {
+      "id": 1613,
+      "artikal": "Basta salata 500g",
+      "cena": 500
+    },
+    {
+      "id": 1614,
+      "artikal": "Masline 100g",
+      "cena": 200
+    },
+    {
+      "id": 1615,
+      "artikal": "Zelena salata 250g",
+      "cena": 200
+    },
+    {
+      "id": 1616,
+      "artikal": "Trljanica 250g",
+      "cena": 350
+    },
+    {
+      "id": 1617,
+      "artikal": "Ajvar 200g",
+      "cena": 280
+    },
+    {
+      "id": 1618,
+      "artikal": "Ljutenica 200g",
+      "cena": 250
+    }
+  ]	
+}

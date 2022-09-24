@@ -1,0 +1,46 @@
+{
+  "id": 2,
+  "kategorija": "SOKOVI",
+  "artikli": [
+    {
+      "id": 21,
+      "artikal": "coca cola 0.25",
+      "cena": 190
+    },
+    {
+      "id": 22,
+      "artikal": "Coca cola zero 0.25",
+      "cena": 190
+    },
+    {
+      "id": 23,
+      "artikal": "Fanta 0.25",
+      "cena": 190
+    },
+    {
+      "id": 24,
+      "artikal": "Sveps Biter 0.25",
+      "cena": 190
+    },
+    {
+      "id": 25,
+      "artikal": "sveps tonik 0.25",
+      "cena": 190
+    },
+    {
+      "id": 26,
+      "artikal": "sprite 0.25",
+      "cena": 190
+    },
+    {
+      "id": 27,
+      "artikal": "Cocta 0.25",
+      "cena": 190
+    },
+    {
+      "id": 28,
+      "artikal": "Sveps PINK Tonic 0.25",
+      "cena": 190
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 13,
+  "kategorija": "HLADNA PREDJELA",
+  "artikli": [
+    {
+      "id": 1301,
+      "artikal": "Njeguska prsuta 100g",
+      "cena": 450
+    },
+    {
+      "id": 1302,
+      "artikal": "Govedja prsuta 100g",
+      "cena": 450
+    },
+    {
+      "id": 1303,
+      "artikal": "Seljacko suvo meso 100g",
+      "cena": 350
+    },
+    {
+      "id": 1304,
+      "artikal": "Svinjska prsuta 100g",
+      "cena": 450
+    },
+    {
+      "id": 1305,
+      "artikal": "Sudzuk 100g",
+      "cena": 250
+    },
+    {
+      "id": 1306,
+      "artikal": "Daska Oganj 450g",
+      "cena": 2100
+    },
+    {
+      "id": 1307,
+      "artikal": "Daska Ognjiste 450 g",
+      "cena": 1500
+    },
+    {
+      "id": 1308,
+      "artikal": "Cvarci 200g",
+      "cena": 450
+    },
+    {
+      "id": 1309,
+      "artikal": "Pihtije 3dl",
+      "cena": 400
+    }
+  ]	
+}

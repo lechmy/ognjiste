@@ -1,0 +1,181 @@
+{
+  "id": 6,
+  "kategorija": "APERITIVI",
+  "artikli": [
+    {
+      "id": 61,
+      "artikal": "Stomaklija Prokupac 0.05",
+      "cena": 170
+    },
+    {
+      "id": 62,
+      "artikal": "Lincura Takovo 0.05",
+      "cena": 180
+    },
+    {
+      "id": 63,
+      "artikal": "Mastika 0.05",
+      "cena": 210
+    },
+    {
+      "id": 64,
+      "artikal": "Loza 13.jul",
+      "cena": 180
+    },
+    {
+      "id": 65,
+      "artikal": "Loza Zolta 0.05",
+      "cena": 160
+    },
+    {
+      "id": 66,
+      "artikal": "Kostic Sljiva 0.05",
+      "cena": 160
+    },
+    {
+      "id": 67,
+      "artikal": "Kostic Dunja 0.05",
+      "cena": 190
+    },
+    {
+      "id": 68,
+      "artikal": "Kostic Viljamovka 0.05",
+      "cena": 190
+    },
+    {
+      "id": 69,
+      "artikal": "Kostic Kajsija 0.05",
+      "cena": 190
+    },
+    {
+      "id": 610,
+      "artikal": "Kostic Zuta Dunja 0.03",
+      "cena": 270
+    },
+    {
+      "id": 611,
+      "artikal": "Kostic Divlja Kruska 0.03",
+      "cena": 270
+    },
+    {
+      "id": 612,
+      "artikal": "Kostic Malina rakija 0.03",
+      "cena": 290
+    },
+    {
+      "id": 613,
+      "artikal": "Kostic Liker Malina 0.05",
+      "cena": 200
+    },
+    {
+      "id": 614,
+      "artikal": "Stari H.Sljiva 0.03",
+      "cena": 150
+    },
+    {
+      "id": 615,
+      "artikal": "Stari H.Dunja 0.03",
+      "cena": 190
+    },
+    {
+      "id": 616,
+      "artikal": "Stari H.Viljamovka 0.03",
+      "cena": 190
+    },
+    {
+      "id": 617,
+      "artikal": "Stari H.Kajsija 0.03",
+      "cena": 190
+    },
+    {
+      "id": 618,
+      "artikal": "Jeger 0.04",
+      "cena": 280
+    },
+    {
+      "id": 619,
+      "artikal": "Vinjak Rubin 0.05",
+      "cena": 180
+    },
+    {
+      "id": 620,
+      "artikal": "Vermut 0.1",
+      "cena": 210
+    },
+    {
+      "id": 621,
+      "artikal": "Martini 0.05",
+      "cena": 250
+    },
+    {
+      "id": 622,
+      "artikal": "Campari 0.05",
+      "cena": 280
+    },
+    {
+      "id": 623,
+      "artikal": "Tekila 0.03",
+      "cena": 190
+    },
+    {
+      "id": 624,
+      "artikal": "Gyn 0.05",
+      "cena": 210
+    },
+    {
+      "id": 625,
+      "artikal": "Badel Brandz 0.05",
+      "cena": 210
+    },
+    {
+      "id": 626,
+      "artikal": "Atlantik Vodka 0.05",
+      "cena": 210
+    },
+    {
+      "id": 627,
+      "artikal": "Baltik vodka 0.05",
+      "cena": 210
+    },
+    {
+      "id": 628,
+      "artikal": "Smirnof vodka 0.03",
+      "cena": 220
+    },
+    {
+      "id": 629,
+      "artikal": "Vodka Finlandia 0.05",
+      "cena": 270
+    },
+    {
+      "id": 630,
+      "artikal": "Gorki list 0.05",
+      "cena": 210
+    },
+    {
+      "id": 631,
+      "artikal": "Zlatna Kajsija 0.05",
+      "cena": 180
+    },
+    {
+      "id": 632,
+      "artikal": "Zlatna Dunja 0.05",
+      "cena": 270
+    },
+    {
+      "id": 633,
+      "artikal": "Zlatna Viljam.0.05",
+      "cena": 270
+    },
+    {
+      "id": 634,
+      "artikal": "Zlatna Sljiva 0.05",
+      "cena": 210
+    },
+    {
+      "id": 635,
+      "artikal": "Zlatni Pelin 0.05",
+      "cena": 190
+    }
+  ]	
+}

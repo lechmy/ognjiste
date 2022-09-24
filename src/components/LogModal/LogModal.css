@@ -1,0 +1,55 @@
+.log-body {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 800px;
+  max-height: 90vh;
+  background-color: #fff;
+  padding: 32px;
+  overflow: auto;
+}
+
+.log-section {
+  margin-top: 36px;
+}
+
+.log-row {
+  display: flex;
+  padding: 8px 0;
+  border-bottom: 1px solid #d5d5d5;
+}
+
+.log-header {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.log-column {
+  flex-basis: 33.33%;
+  text-align: center;
+}
+
+.log-column:first-child {
+  text-align: left;
+}
+
+.log-column:last-child {
+  text-align: right;
+}
+
+.log-column-name {
+  flex-basis: 60%;
+}
+
+.log-column-quantity {
+  flex-shrink: 0;
+  flex-basis: 20%;
+  text-align: center;
+}
+
+.log-column-price {
+  flex-shrink: 0;
+  flex-basis: 20%;
+  text-align: right;
+}

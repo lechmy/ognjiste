@@ -1,0 +1,56 @@
+{
+  "id": 12,
+  "kategorija": "SIREVI",
+  "artikli": [
+    {
+      "id": 1201,
+      "artikal": "Kravlji sir 200g",
+      "cena": 350
+    },
+    {
+      "id": 1202,
+      "artikal": "Mesanac sir 200g",
+      "cena": 350
+    },
+    {
+      "id": 1203,
+      "artikal": "Ovciji sir 200g",
+      "cena": 400
+    },
+    {
+      "id": 1204,
+      "artikal": "Kozji sir 200g",
+      "cena": 400
+    },
+    {
+      "id": 1205,
+      "artikal": "Dimljeni sir 200g",
+      "cena": 340
+    },
+    {
+      "id": 1206,
+      "artikal": "Sir sa biljkama 200g",
+      "cena": 300
+    },
+    {
+      "id": 1207,
+      "artikal": "Kajmak 200 g",
+      "cena": 380
+    },
+    {
+      "id": 1208,
+      "artikal": "Paprika u pavlaci 200g",
+      "cena": 330
+    },
+    {
+      "id": 1209,
+      "artikal": "Pretrljana 250g",
+      "cena": 300
+    },
+    {
+      "id": 1210,
+      "artikal": "Urnebes 250g",
+      "cena": 300
+    }
+  ]	
+}

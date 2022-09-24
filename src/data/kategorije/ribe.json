@@ -1,0 +1,26 @@
+{
+  "id": 21,
+  "kategorija": "RIBA",
+  "artikli": [
+    {
+      "id": 2101,
+      "artikal": "Pastrmka na zaru 1kg",
+      "cena": 1600
+    },
+    {
+      "id": 2102,
+      "artikal": "Orada 1kg",
+      "cena": 2000
+    },
+    {
+      "id": 2103,
+      "artikal": "Brancin 1kg",
+      "cena": 2000
+    },
+    {
+      "id": 2104,
+      "artikal": "File pastrmke 1kg",
+      "cena": 2800
+    }
+  ]	
+}
